@@ -1,0 +1,23 @@
+{
+	"explorer.confirmDragAndDrop": false,
+	"editor.wordWrap": "on",
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+	"emmet.syntaxProfiles": {
+		"javascript": "jsx"
+	},
+  "terminal.integrated.shell.windows": "E:\\Program Files\\Git\\bin\\bash.exe",
+	"editor.formatOnSave": true,
+  "window.zoomLevel": 0,
+	"editor.tabSize": 2,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"editor.fontFamily": "'IBM Plex Mono'",
+	"terminal.integrated.fontFamily": "monospace",
+	"editor.formatOnPaste": true,
+	"editor.fontLigatures": true,
+	"workbench.colorTheme": "Horizon Italic",
+  "editor.detectIndentation": false,
+  "prettier.singleQuote": true,
+  "javascript.updateImportsOnFileMove.enabled": "always"
+}
